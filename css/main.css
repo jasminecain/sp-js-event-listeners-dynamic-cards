@@ -1,0 +1,18 @@
+.card-box {
+  border: 1px solid;
+  height: 80%;
+  width: 80%;
+}
+
+.createCard {
+  border: 1px solid;
+  height: 30%;
+  width: 30%;
+}
+
+.card {
+  font: 15px;
+  height: 15%;
+  width: 15%;
+  display: flex;
+}
